@@ -1,5 +1,5 @@
 # https://www.geeksforgeeks.org/python-program-for-bubble-sort/
-
+// ввод для нового коммита
 def bubbleSort(arr):
     n = len(arr)
     for i in range(n):
